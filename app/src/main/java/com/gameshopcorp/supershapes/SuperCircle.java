@@ -8,6 +8,10 @@ public class SuperCircle {
     public Vector3f anchor;
     public SuperCircle(Vector3f origin, Vector3f anchor){
 
+        this.origin = origin;
+        this.anchor = anchor;
 
     }
+
+
 }
